@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "u5QSTKjAVEzZW15CdcceT/WTNZRpFCRs+QD0deC53aw=",
+  "Source": "APIWeatherForecastDIO",
+  "BasePath": "_content/APIWeatherForecastDIO",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

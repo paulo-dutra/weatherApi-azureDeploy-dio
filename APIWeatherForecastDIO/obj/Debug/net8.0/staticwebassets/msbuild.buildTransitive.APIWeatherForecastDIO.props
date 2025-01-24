@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\APIWeatherForecastDIO.props" />
+</Project>
